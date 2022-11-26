@@ -1,0 +1,16 @@
+﻿  ParticleWorld.cpp
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\ParticleWorld.cpp(19,52): warning C4244: '=': conversion from 'unsigned __int64' to 'float', possible loss of data
+  main.cpp
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(62,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(62,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(73,29): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(73,22): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(84,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(105,26): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(50,18): warning C4101: 'debug': unreferenced local variable
+  Generating code
+  0 of 2414 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ENGINE 01.vcxproj -> E:\.School\GDPHYSX ENGINE 1\ENGINE 01\x64\Release\ENGINE 01.exe
